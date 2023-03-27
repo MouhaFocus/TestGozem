@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103221134379",
+    "project_id": "testgozem-14a5d",
+    "storage_bucket": "testgozem-14a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103221134379:android:491a4acf2c3d4f76b4566e",
+        "android_client_info": {
+          "package_name": "com.testgozem.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103221134379-vj3j5dhvoi7lcfi0kbgugk3uihs6vd93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkQCdKYFweQHAlIHtAFHyTjCgrMqBIhaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103221134379-vj3j5dhvoi7lcfi0kbgugk3uihs6vd93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
